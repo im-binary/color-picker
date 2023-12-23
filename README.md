@@ -2,12 +2,12 @@
 
 ## 데모
 
-https://pongdang-color-picker.vercel.app/
+https://vinarial-color-picker.vercel.app/
 
 ## 실행 방법
 
 ```
-git clone https://github.com/pongdang/color-picker.git
+git clone https://github.com/vinarial/color-picker.git
 
 yarn
 
