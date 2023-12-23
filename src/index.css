@@ -1,0 +1,73 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #202124;
+  margin: 28px;
+  color: #bdc1c6;
+}
+
+fieldset.color-info-main {
+  border-radius: 5px;
+  text-align: center;
+  padding: 4px 10px 10px 10px;
+  margin-bottom: 10px;
+  border: 1px solid #3c4043;
+}
+
+fieldset.color-info-main legend {
+  padding: 0px 5px;
+}
+
+.color-info-main input {
+  width: 100%;
+  text-align: center;
+}
+
+.color-info-main button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  width: 22px;
+  height: 22px;
+}
+
+.color-info-main button img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.color-info-main div {
+  display: grid;
+  grid-template-columns: 1fr auto;
+}
+
+fieldset input {
+  background-color: transparent;
+  border: none;
+  color: inherit;
+}
+
+.color-info-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 8px;
+}
+
+.color-info-container fieldset {
+  border-radius: 5px;
+  padding: 4px 10px 10px 10px;
+  border: 1px solid #3c4043;
+}
+
+.color-info-container fieldset input {
+  width: 100%;
+}
+
+.color-info-container fieldset legend {
+  padding: 0px 5px;
+}
