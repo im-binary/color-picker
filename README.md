@@ -14,7 +14,7 @@ yarn
 yarn start
 ```
 
-## 시연 방법
+## 시연
 
 https://github.com/pongdang/color-picker/assets/76990149/0ca8a26c-4b78-4251-a0bf-38240ebccb92
 
